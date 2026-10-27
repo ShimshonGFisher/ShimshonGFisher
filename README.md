@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="WhatsApp, Instagram and Messenger, web chat and voice flow into the AMIRA agent core, backed by Postgres with pgvector, a Rust embedder, Asterisk and whisper.cpp" src="assets/header-light.svg" width="100%">
+</picture>
+
 # Shimshon Fisher
 
 Forward deployed AI engineer. I sit with a business, find what's actually broken,
